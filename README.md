@@ -23,7 +23,6 @@ Our finetuned Llama-2-7B-Chat achieves statistically significant improvements an
 
 Teamwork divides the task and multiplies the success! Deeply appreciate the active engagement and collaborative spirit of the team (Hanyue Liu, Kenan Zhang, Linze Li, Xinyu Wang, Yixuan Gong)! 🎉
 
-PS: the question-answering dataset and the finetuned Llama-2-7B-Chat checkpoint are publicly available on Huggingface:
-https://huggingface.co/datasets/hanyueshf/ml-arxiv-papers-qa  
-https://huggingface.co/hanyueshf/llama-2-7b-chat-ml-qa 
+PS: the question-answering dataset and the finetuned Llama-2-7B-Chat checkpoint are publicly available on Huggingface:  
+https://huggingface.co/datasets/hanyueshf/ml-arxiv-papers-qa  https://huggingface.co/hanyueshf/llama-2-7b-chat-ml-qa 
 
