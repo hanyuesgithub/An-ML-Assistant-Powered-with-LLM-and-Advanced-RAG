@@ -1,6 +1,6 @@
 Hi there!! Let me introduce our ML assistant built in this project! 😊 
 
-![UI](https://github.com/hanyuesgithub/An-ML-Assistant-Powered-with-LLM-and-Advanced-RAG/assets/80732009/64e99d4f-f261-44ea-b35a-a680a14a2ef7)
+![UI](https://github.com/hanyuesgithub/An-ML-Assistant-Powered-with-LLM-and-Advanced-RAG/assets/80732009/ae5f2068-e63a-41f3-8975-0df0a28d06ae)
 
 We developed an intelligent system powered with large language models(hashtag#LLMs) and advanced Retrieval-Augmented Generation(hashtag#RAG) supported with over 100,000 machine learning papers, aiming to provide ML learners and researchers with a user-friendly platform for easily understanding the intricate principles and methodologies behind burgeoning ML concepts.
 
