@@ -7,6 +7,8 @@ a) Data Vectorization: ML papers vectorized as embedding representations and sto
 b) Context Retrieval: User queries to match with ML papers chunks which return as context.
 c) LLM Inference: LLM finetuned with ML paper data to generate answers to AI-related user queries.
 
+![system_design](https://github.com/hanyuesgithub/An-ML-Assistant-Powered-with-LLM-and-Advanced-RAG/assets/80732009/96d7947d-5a9f-4bb4-bb2b-e59ef54d72bb)
+
 So, what has been done to build the system?
 ✅ Created a question-answering dataset (ml-arxiv-papers-qa) 
 ✅ Finetuned LLMs (hashtag#Llama-2-7B-Chat and hashtag#Mistral-7B)
@@ -15,7 +17,7 @@ So, what has been done to build the system?
 ✅ Designed and created a conversational UI
 
 Our finetuned Llama-2-7B-Chat achieves statistically significant improvements and it shows the strongest performance across all evaluation metrics we applied compared to the base Llama-2-7B-Chat and base Llama-3-8B-Instruct models. Besides, our RAG system achieves a retrieval accuracy of 99.75%!
-![system_design](https://github.com/hanyuesgithub/An-ML-Assistant-Powered-with-LLM-and-Advanced-RAG/assets/80732009/96d7947d-5a9f-4bb4-bb2b-e59ef54d72bb)
+
 
 
 Teamwork divides the task and multiplies the success! Deeply appreciate the active engagement and collaborative spirit of the team (Hanyue Liu, Kenan Zhang, Linze Li, Xinyu Wang, Yixuan Gong)! 🎉
