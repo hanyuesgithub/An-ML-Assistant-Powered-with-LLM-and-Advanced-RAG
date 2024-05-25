@@ -9,6 +9,7 @@ a) Data Vectorization: ML papers vectorized as embedding representations and sto
 b) Context Retrieval: User queries to match with ML papers chunks which return as context;
 c) LLM Inference: LLM finetuned with ML paper data to generate answers to AI-related user queries. 
 ![system_design](https://github.com/hanyuesgithub/An-ML-Assistant-Powered-with-LLM-and-Advanced-RAG/assets/80732009/96d7947d-5a9f-4bb4-bb2b-e59ef54d72bb)
+![RAG](https://github.com/hanyuesgithub/An-ML-Assistant-Powered-with-LLM-and-Advanced-RAG/assets/80732009/6b177c9f-416a-4c9e-ba9c-1ba258d329cd)
 
 So, what has been done to build the system?
 ✅ Created a question-answering dataset (ml-arxiv-papers-qa)
