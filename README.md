@@ -2,10 +2,10 @@ Hi there!! Let me introduce our ML assistant built in this project! 😊
 
 We developed an intelligent system powered with large language models(hashtag#LLMs) and advanced Retrieval-Augmented Generation(hashtag#RAG) supported with over 100,000 machine learning papers, aiming to provide ML learners and researchers with a user-friendly platform for easily understanding the intricate principles and methodologies behind burgeoning ML concepts.
 
-The system flow includes three pivotal components:
-a) Data Vectorization: ML papers vectorized as embedding representations and stored in database；
-b) Context Retrieval: User queries to match with ML papers chunks which return as context；
-c) LLM Inference: LLM finetuned with ML paper data to generate answers to AI-related user queries.
+The system flow includes three pivotal components: 
+a) Data Vectorization: ML papers vectorized as embedding representations and stored in database； 
+b) Context Retrieval: User queries to match with ML papers chunks which return as context； 
+c) LLM Inference: LLM finetuned with ML paper data to generate answers to AI-related user queries. 
 ![system_design](https://github.com/hanyuesgithub/An-ML-Assistant-Powered-with-LLM-and-Advanced-RAG/assets/80732009/96d7947d-5a9f-4bb4-bb2b-e59ef54d72bb)
 
 So, what has been done to build the system?
@@ -23,6 +23,6 @@ Our finetuned Llama-2-7B-Chat achieves statistically significant improvements an
 Teamwork divides the task and multiplies the success! Deeply appreciate the active engagement and collaborative spirit of the team (Hanyue Liu, Kenan Zhang, Linze Li, Xinyu Wang, Yixuan Gong)! 🎉
 
 PS: the question-answering dataset and the finetuned Llama-2-7B-Chat checkpoint are publicly available on Huggingface:
-https://huggingface.co/datasets/hanyueshf/ml-arxiv-papers-qa
-https://huggingface.co/hanyueshf/llama-2-7b-chat-ml-qa
+https://huggingface.co/datasets/hanyueshf/ml-arxiv-papers-qa  
+https://huggingface.co/hanyueshf/llama-2-7b-chat-ml-qa 
 
