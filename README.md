@@ -1,4 +1,4 @@
-Hi there!! Let me introduce our ML assistant built in this project! 😊 
+Hi there!! Let me introduce our ML assistant! 😊 
 
 ![UI](https://github.com/hanyuesgithub/An-ML-Assistant-Powered-with-LLM-and-Advanced-RAG/assets/80732009/ae5f2068-e63a-41f3-8975-0df0a28d06ae)
 
