@@ -14,7 +14,7 @@ c) LLM Inference: LLM finetuned with ML paper data to generate answers to AI-rel
 So, what has been done to build the system?
 ✅ Created a question-answering dataset (ml-arxiv-papers-qa)
 ✅ Finetuned LLMs (hashtag#Llama-2-7B-Chat and hashtag#Mistral-7B)
-✅ Trained an embedding model (BGE-M3)
+✅ Finetuned an embedding model (BGE-M3)
 ✅ Built a RAG system with combined retrieval methods (BM25, BGE-M3 and Reranking)
 ✅ Designed and created a conversational UI
 
